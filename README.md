@@ -1,2 +1,2 @@
-# trail-core
-A Reference Implementation for the Trail Protocol
+# NMTPD
+A Reference Implementation for the Neutral Money Transaction Protocol
